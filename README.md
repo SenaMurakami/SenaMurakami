@@ -1,4 +1,4 @@
 # About
 
 ### my skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,vue,wordpress,gulp,webpack,vite,docker,ps,ai,xd,figma)](https://skillicons.dev)
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,sass,js,jquery,vue,wordpress,gulp,webpack,vite,docker,ps,ai,xd,figma" />
